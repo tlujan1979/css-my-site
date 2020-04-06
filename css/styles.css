@@ -1,0 +1,142 @@
+/************************ TAG Slectors ***************************/
+a{
+    color: #11999E;
+    font-family: 'Raleway', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #EAF6F6
+}
+
+
+body{
+    color: #40514E;
+    font-family: 'Merriweather', serif;
+    margin: 0px;
+    text-align: center;
+}
+
+h1{
+    margin-top: 0px;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    color: #66BFBF;
+}
+
+h2{
+    color: #66BFBF;
+    font-family: 'Raleway', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+
+}
+
+h3{
+    font-family: 'Raleway', sans-serif;
+    color: #11999E;
+
+}
+
+hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+p{
+    line-height: 2;
+}
+
+
+/************************ CLASS Slectors ***************************/
+
+.top-container{
+    background-color: #EAF6F6 ;
+    padding-top: 100px;
+    position: relative;
+    
+}
+
+.middle-container{
+    margin: 100px 0px
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+
+.bottom-cloud{
+    bottom: 300px;
+    left: 250px;
+    position: absolute;
+}
+
+.copyright{
+    color: #EAF6F6;
+    font-size: .75rem;
+    padding: 20px 0px;
+}
+
+.contact-me{
+    margin-top: 55px;
+}
+
+.contact-me-message{
+    width: 30%; 
+    margin: 40px auto 60px;
+}
+.
+
+.qa-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+
+.welcome-message{
+   width: 30%; 
+   margin: auto;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    
+}
+
+.webdesign-img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+
+.btn{
+
+	background-color:#66BFBF;
+	border-radius:10px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:'Raleway', sans-serif;
+	font-size:17px;
+	padding:12px 37px;
+	text-decoration:none;
+}
+
+
+
+
